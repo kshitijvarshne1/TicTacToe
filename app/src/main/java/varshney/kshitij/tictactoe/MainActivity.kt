@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             }
         }
         resetBtn.setOnClickListener { }
-    }a
+    }
 
     override fun onClick(view: View) {
         when (view.id) {
